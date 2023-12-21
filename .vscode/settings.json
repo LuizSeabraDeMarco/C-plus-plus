@@ -44,6 +44,7 @@
         "xutility": "cpp",
         "iomanip": "cpp",
         "xlocmon": "cpp",
-        "xloctime": "cpp"
+        "xloctime": "cpp",
+        "string": "cpp"
     }
 }
